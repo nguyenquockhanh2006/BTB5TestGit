@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4tom+jUNz8cnPXLDkTeTnGiY9735zhugaKEQdHJlmrYE32ihjzvu9DLiFgQA4QzNbCKHJjOmwYO5o+cYzdKnrQ==",
+  "dgSpecHash": "4V7nd3+2qJmo/bxdbNVhWMpjmChcJ7xLoavGo9bQDtUEKvsLEU0EOxA2xT0hhujTO1TcGpnEyU+yfFxWOjPApw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
+  "projectFilePath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\code\\git-s6\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NguyenQuocKhanh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],

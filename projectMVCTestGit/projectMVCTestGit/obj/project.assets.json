@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
+      "projectUniqueName": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\code\\git-s6\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
       "projectName": "projectMVCTestGit",
-      "projectPath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
+      "projectPath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\code\\git-s6\\projectMVCTestGit\\projectMVCTestGit\\projectMVCTestGit.csproj",
       "packagesPath": "C:\\Users\\NguyenQuocKhanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\projectMVCTestGit\\projectMVCTestGit\\obj\\",
+      "outputPath": "C:\\Users\\NguyenQuocKhanh\\Desktop\\BTBuoi5\\code\\git-s6\\projectMVCTestGit\\projectMVCTestGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
